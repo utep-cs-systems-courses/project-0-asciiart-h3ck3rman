@@ -30,7 +30,7 @@ The following are source files for asciidraw
 
 You can compile this program using the command
 
-    $ cc  -g -O3 -o asciidraw uimain.c draw_shapes.c draw_chars.c 11x16font.c
+    $ cc  -g -O3 -o  asciidraw uimain.c draw_shapes.c draw_chars.c 11x16font.c
  
 - This command is a nuisance to type.  
 - The TAs will show you how the program *make* can more conveniently and efficiently compile asciidraw.
